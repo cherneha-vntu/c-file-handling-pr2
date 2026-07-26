@@ -5,9 +5,11 @@ This project is a practical work for the "Computer Technologies and Programming"
 ## Programs Included
 
 ### 1. Character Replacement in Text File (`task1.c`)
+
 This program reads a text file (`input.txt`), replaces all occurrences of the character '0' with '1' and '1' with '0', and writes the result to a new text file (`output.txt`).
 
 ### 2. Insert String in Binary File (`task2.c`)
+
 This program inserts a specific string ("_INSERT_") exactly into the middle of a binary file (`data.bin`) without overwriting the existing content. It calculates the file size, reads the content into memory, and rewrites the file with the inserted word.
 
 ## How to Compile and Run
