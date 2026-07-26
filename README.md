@@ -10,7 +10,7 @@ This program reads a text file (`input.txt`), replaces all occurrences of the ch
 
 ### 2. Insert String in Binary File (`task2.c`)
 
-This program inserts a specific string ("_INSERT_") exactly into the middle of a binary file (`data.bin`) without overwriting the existing content. It calculates the file size, reads the content into memory, and rewrites the file with the inserted word.
+This program inserts a specific string ("\_INSERT\_") exactly into the middle of a binary file (`data.bin`) without overwriting the existing content. It calculates the file size, reads the content into memory, and rewrites the file with the inserted word.
 
 ## How to Compile and Run
 
