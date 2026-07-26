@@ -1,4 +1,4 @@
-# Practical Work 2
+# Practical Work 2: Text and Binary File Handling in C
 
 This project is a practical work for the "Computer Technologies and Programming" course. It contains programs demonstrating file handling in C, focusing on text character replacement and binary file manipulation.
 
