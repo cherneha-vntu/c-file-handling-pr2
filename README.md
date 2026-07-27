@@ -16,14 +16,14 @@ This program inserts a specific string ("\_INSERT\_") exactly into the middle of
 
 To compile and run `task1.c`:
 ```bash
-gcc task1.c -o practice2
-./practice2
+gcc task1.c -o task1
+./task1
 ```
 
 To compile and run `task2.c`:
 ```bash
-gcc task2.c -o practice2
-./practice2
+gcc task2.c -o task2
+./task2
 ```
 
 ## Example Usage
@@ -35,7 +35,7 @@ Hello 1010
 World 0001
 Test 1110
 
-$ ./practice2
+$ ./task1
 Файл успішно оброблено.
 
 $ cat output.txt
@@ -50,7 +50,7 @@ $ printf "HelloWorld" > data.bin
 $ cat data.bin
 HelloWorld
 
-$ ./practice2
+$ ./task2
 Слово успішно вставлено.
 
 $ cat data.bin
